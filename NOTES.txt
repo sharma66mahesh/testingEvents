@@ -1,0 +1,4 @@
+EventTesting contract address: 0x6714Ae2537192b83894DD19B97BaeA5a31564Dd3 (Ropsten)
+
+==================================  USE THIS  =================================================
+EventTesting contract address: 0x3cbBdaE54C1449F63dDF6F25EE0f537AbDBfD11A (Rinkeby)

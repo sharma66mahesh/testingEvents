@@ -1,0 +1,17 @@
+{
+  "name": "oz-eventtesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@harmony-js/core": "^0.1.45",
+    "@openzeppelin/cli": "^2.8.2",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.2.9"
+  }
+}

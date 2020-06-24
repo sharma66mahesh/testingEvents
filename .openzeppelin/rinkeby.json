@@ -1,0 +1,14 @@
+{
+  "contracts": {},
+  "solidityLibs": {},
+  "proxies": {
+    "oz-eventtesting/EventTesting": [
+      {
+        "address": "0x3cbBdaE54C1449F63dDF6F25EE0f537AbDBfD11A",
+        "kind": "NonProxy",
+        "bytecodeHash": "05cc4325d5e9d7fdde04e64eb9cdbfa2c4cacc1333a799ffe5380a66d6ba5771"
+      }
+    ]
+  },
+  "manifestVersion": "2.2"
+}
